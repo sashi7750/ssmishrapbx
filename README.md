@@ -162,6 +162,17 @@ Configuration flows down through the Node Agent; SIP and RTP stay local to the r
 
 ---
 
+## Built with
+
+| Layer | Stack |
+|-------|--------|
+| Frontend | React, Vite, TypeScript, Tailwind CSS, Zustand, TanStack Query, SIP.js |
+| Backend | Node.js, Express, TypeScript, Prisma, PostgreSQL, Redis, Socket.IO |
+| Agent | Node.js, TypeScript (AMI / ARI) |
+| Telephony | Asterisk, PJSIP, ARI, AMI |
+
+---
+
 ## Repository
 
 ```text
