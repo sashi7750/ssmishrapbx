@@ -138,6 +138,11 @@ Filter by tenant, role, and status. Track last login and assigned extensions.
 
 ![Users](ssmishra-pbx-images/users.png)
 
+Tenant User with Softphone.
+
+![Users](ssmishra-pbx-images/user-with-softphone.png)
+
+
 ### Dialplan Builder (visual)
 
 Drag-and-drop call-flow designer for inbound and outbound routes.
